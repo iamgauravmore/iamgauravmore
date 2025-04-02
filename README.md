@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @iamgauravmore
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning java front end development 
+- 🌱 I’m currently learning front end development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : u can also follow me on ig: gauravmore.07
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 iamgauravmore/iamgauravmore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
